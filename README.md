@@ -4,4 +4,6 @@ Created a real-time face mask detection system using OpenCV, Tensorflow, Streaml
 
 Used MobileNetV2 pre-trained model for detection, labels from imagenet dataset, and Haar Cascade classifier for classification.
 
-Link to the Kaggle dataset: https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+Download the dataset from [here](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset).
+
+> **_NOTE:_** Use Python version 3.11 only
